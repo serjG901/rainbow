@@ -1,2 +1,2 @@
 # rainbow
-ReinbowMemory - game for WATCH (like samsung watch 4 classic)
+RainbowMemory - game for WATCH (like samsung watch 4 classic)
