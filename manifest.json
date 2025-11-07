@@ -587,13 +587,13 @@
   "description": "Game for your mind",
   "screenshots": [
     {
-      "src": "static/img/screenshot1.png",
+      "src": "static/img/screenshot11.png",
       "type": "image/png",
       "sizes": "540x720",
       "form_factor": "narrow"
     },
     {
-      "src": "static/img/screenshot2.png",
+      "src": "static/img/screenshot22.png",
       "type": "image/png",
       "sizes": "720x540",
       "form_factor": "wide"
